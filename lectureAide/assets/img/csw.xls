@@ -1,0 +1,125 @@
+ <div class="table-responsive table mt-2" id="dataTable" role="grid" aria-describedby="dataTable_info">
+                                
+                                <table class="table table-striped my-0" id="dataTable">
+                                    <thead>
+                                        <tr>
+                                            <th>surname</th>
+                                            <th>Reg</th>
+                                           
+                                            <th>test 1 /</th>
+                                               
+                                            <th>test 2 /</th>
+                                               
+                                            <th>test 3 /</th>
+                                               
+                                            <th>assignment 1 /</th>
+                                               
+                                            <th>assignment 2 /</th>
+                                               
+                                            <th>assignment 4 /</th>
+                                                                                        <th>OCW</th>
+                                            <th>ACW</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                       
+                                    
+                                                                                <tr>
+                                            
+                                            <td>sadomba</td>
+                                            <td>h220179t</td>
+                                                                                        <td>2</td>
+                                           
+                                                                                        <td>10</td>
+                                           
+                                                                                        <td>8</td>
+                                           
+                                                                                        <td>23</td>
+                                           
+                                                                                        <td>23</td>
+                                           
+                                                                                        <td>23</td>
+                                           
+                                                                                                                                    <td>89</td>
+                                            <td>22.25</td>
+
+
+                                            
+                                        </tr>
+                                       
+                                                                                <tr>
+                                            
+                                            <td>gaviro</td>
+                                            <td>h220218p</td>
+                                                                                        <td>4</td>
+                                           
+                                                                                        <td></td>
+                                           
+                                                                                        <td></td>
+                                           
+                                                                                        <td></td>
+                                           
+                                                                                        <td>23</td>
+                                           
+                                                                                        <td></td>
+                                           
+                                                                                                                                    <td></td>
+                                            <td>0</td>
+
+
+                                            
+                                        </tr>
+                                       
+                                                                                <tr>
+                                            
+                                            <td>tagara</td>
+                                            <td>h220436q</td>
+                                                                                        <td>6</td>
+                                           
+                                                                                        <td>5</td>
+                                           
+                                                                                        <td>23</td>
+                                           
+                                                                                        <td></td>
+                                           
+                                                                                        <td>23</td>
+                                           
+                                                                                        <td></td>
+                                           
+                                                                                                                                    <td></td>
+                                            <td>0</td>
+
+
+                                            
+                                        </tr>
+                                       
+                                                                                <tr>
+                                            
+                                            <td>mataka</td>
+                                            <td>h220478p</td>
+                                                                                        <td>5</td>
+                                           
+                                                                                        <td>3</td>
+                                           
+                                                                                        <td>3</td>
+                                           
+                                                                                        <td></td>
+                                           
+                                                                                        <td>22</td>
+                                           
+                                                                                        <td></td>
+                                           
+                                                                                                                                    <td></td>
+                                            <td>0</td>
+
+
+                                            
+                                        </tr>
+                                       
+                                                                                
+                                       
+                                    </tbody>
+                                    <tfoot></tfoot>
+                                   
+                                </table>
+                            </div><br /><br />Code witten By sudhir K gupta.<br />My Blog - https://comedymood.com
