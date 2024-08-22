@@ -1,2 +1,3 @@
-# my_projects_portfolio
+# My projects portfolio
  
+### databases are included in the folders, for laravel just migrate
