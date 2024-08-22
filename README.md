@@ -2,21 +2,10 @@
 <a id="readme-top"></a>
 
 
-
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a>
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -82,8 +71,7 @@
 
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@your_twitter](https://twitter.com/bratt_c) - email@example.com
+Name - [@bratt_c](https://twitter.com/bratt_c) 
 
 Project Link: [https://github.com/sadomba/my_project_portfolio](https://github.com/sadomba/my_project_portfolio)
 
@@ -94,9 +82,9 @@ Project Link: [https://github.com/sadomba/my_project_portfolio](https://github.c
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
+
+
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
